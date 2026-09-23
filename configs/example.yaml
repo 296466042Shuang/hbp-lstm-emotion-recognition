@@ -1,0 +1,29 @@
+seed: 42
+
+data:
+  num_joints: 17
+  coord_dim: 3
+  clip_length: 60
+  high_level_dim: 33
+  num_classes: 7
+
+model:
+  low_hidden: 96
+  high_hidden: 64
+  branch_dim: 96
+  fusion_dim: 128
+
+bayesian:
+  kl_weight: 1.0e-6
+  mc_samples: 20
+
+robustness:
+  gaussian_sigma: 0.02
+  fgsm_epsilon: 0.01
+
+optim:
+  lr: 0.0003
+  weight_decay: 0.0001
+
+# Compact public reference configuration only.
+# It is not the exact experiment configuration used for the paper.
