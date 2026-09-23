@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated AI Open paper."
+title: "Hybrid Bayesian LSTM Emotion Recognition: Public Reference Implementation"
+type: software
+authors:
+  - family-names: Wu
+    given-names: Shuang
+  - family-names: Romano
+    given-names: Daniela M.
+repository-code: "https://github.com/296466042Shuang/hbp-lstm-emotion-recognition"
+url: "https://doi.org/10.1016/j.aiopen.2025.09.002"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Wu
+      given-names: Shuang
+    - family-names: Romano
+      given-names: Daniela M.
+  title: "Robust emotion recognition using hybrid Bayesian LSTM based on Laban movement analysis"
+  journal: "AI Open"
+  year: 2025
+  doi: "10.1016/j.aiopen.2025.09.002"
