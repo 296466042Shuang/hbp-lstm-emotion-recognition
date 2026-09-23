@@ -1,6 +1,7 @@
 # Robust Bodily Emotion Recognition with Hybrid Bayesian LSTM
 
 [![Paper](https://img.shields.io/badge/AI%20Open-2025-blue)](https://doi.org/10.1016/j.aiopen.2025.09.002)
+[![smoke-test](https://github.com/296466042Shuang/hbp-lstm-emotion-recognition/actions/workflows/smoke-test.yml/badge.svg)](https://github.com/296466042Shuang/hbp-lstm-emotion-recognition/actions/workflows/smoke-test.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-reference%20implementation-orange)
 
